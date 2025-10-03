@@ -1,0 +1,5 @@
+document_name,pages,sections,num_chunks,hash,duplicates_found
+doc1.pdf,10,5,50,abc123,0
+doc2.pdf,15,8,75,def456,1
+doc3.pdf,5,3,25,ghi789,0
+

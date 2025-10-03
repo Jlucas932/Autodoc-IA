@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcb3834a-8907-4726-96a1-2ea246cd25ef" name="Changes" comment="[FEATURE]- Repaginação do Projeto" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="31xqKhVRObxqSJqNCfVfbuyBqN5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/joao.pinheiro/Documentos/projeto-etp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;junie.project.settings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Inicia o app Frontend - Vue">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcb3834a-8907-4726-96a1-2ea246cd25ef" name="Changes" comment="" />
+      <created>1756476008313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756476008313</updated>
+      <workItem from="1756476009548" duration="7024000" />
+      <workItem from="1756786160939" duration="3648000" />
+      <workItem from="1756790135537" duration="30838000" />
+      <workItem from="1756904232035" duration="2075000" />
+      <workItem from="1756906343232" duration="13919000" />
+      <workItem from="1756956396587" duration="4517000" />
+      <workItem from="1757097377222" duration="8000" />
+      <workItem from="1757339605179" duration="4245000" />
+      <workItem from="1757471230438" duration="7425000" />
+      <workItem from="1757917600313" duration="70000" />
+      <workItem from="1757917757956" duration="9719000" />
+      <workItem from="1757952513204" duration="4668000" />
+      <workItem from="1757990478144" duration="26182000" />
+      <workItem from="1758118609132" duration="5755000" />
+      <workItem from="1758129474527" duration="6542000" />
+      <workItem from="1758225993838" duration="2163000" />
+      <workItem from="1758505393330" duration="300000" />
+      <workItem from="1758506148761" duration="14000" />
+      <workItem from="1758550652439" duration="332000" />
+      <workItem from="1758551003027" duration="8181000" />
+      <workItem from="1758561959762" duration="1315000" />
+      <workItem from="1758570016067" duration="51133000" />
+      <workItem from="1759150156442" duration="6909000" />
+      <workItem from="1759250396724" duration="18000" />
+      <workItem from="1759291696941" duration="5594000" />
+      <workItem from="1759419661437" duration="3275000" />
+      <workItem from="1759494581051" duration="9249000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Exemplo de Env&quot;">
+      <option name="closed" value="true" />
+      <created>1756477749170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756477749170</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;[FIX]- Corrigido caminho do static e uso do Uvicorn&quot;">
+      <option name="closed" value="true" />
+      <created>1756479355671</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756479355671</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;[FIX]- Corrigido Docker Usando aplicação antiga&quot;">
+      <option name="closed" value="true" />
+      <created>1756480441432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756480441432</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;[FEATURE]- Atualizãção de Projeto&quot;">
+      <option name="closed" value="true" />
+      <created>1756887870266</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756887870266</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;[FEATURE]- Atualizãção de Projeto&quot;">
+      <option name="closed" value="true" />
+      <created>1756913296135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756913296135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[FEATURE]- Implementação de painel administrativo de usuários">
+      <option name="closed" value="true" />
+      <created>1756956120357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756956120357</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[FEATURE]- Criando Imagem">
+      <option name="closed" value="true" />
+      <created>1757097202288</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757097202288</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[FEATURE]- Criando Imagem">
+      <option name="closed" value="true" />
+      <created>1757097207753</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757097207753</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[FEATURE]- Atualizando Gerador de Docs">
+      <option name="closed" value="true" />
+      <created>1757353017044</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757353017044</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[FEATURE]- Atualizando Gerador de Docs">
+      <option name="closed" value="true" />
+      <created>1757353069867</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757353069867</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[FEATURE]- Repaginação do Projeto">
+      <option name="closed" value="true" />
+      <created>1758037408530</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1758037408530</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="javascript:npm:prettier" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:stylus-loader" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:stylus" />
+    <option featureType="com.intellij.configurationType" implementationName="PythonConfigurationType" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:webpack" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.py" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:vue" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Exemplo de Env&quot;" />
+    <MESSAGE value="&quot;[FIX]- Corrigido caminho do static e uso do Uvicorn&quot;" />
+    <MESSAGE value="&quot;[FIX]- Corrigido Docker Usando aplicação antiga&quot;" />
+    <MESSAGE value="[FEATURE]- Atualizãção de Projeto" />
+    <MESSAGE value="&quot;[FEATURE]- Atualizãção de Projeto&quot;" />
+    <MESSAGE value="[FEATURE]- Implementação de painel administrativo de usuários" />
+    <MESSAGE value="[FEATURE]- Criando Imagem" />
+    <MESSAGE value="[FEATURE]- Atualizando Gerador de Docs" />
+    <MESSAGE value="[FEATURE]- Repaginação do Projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="[FEATURE]- Repaginação do Projeto" />
+  </component>
+</project>
